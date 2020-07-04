@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Go Gaga Preferences</string>
+    <string name="tab_text_1">Match Preferences</string>
+    <string name="tab_text_2">App Preferences</string>
+    <string name="app1">We strongly recommend to keep the notifications ON. You don\'t want to miss the a chat notification from your match.</string>
+    <string name="app2">Here to only help friends? Just hide your profile and be a match-maker</string>
+    <string name="app3">Please select your language of choice. The language changes will take place once you go to the home screen.</string>
+    <string name="app4">Never miss an update by whitelisting our app from battery optimisation.</string>
+    <string name="match1">Age range preference allows us to suggest matches accordingly. Some matches may fall outside the specific range.</string>
+</resources>

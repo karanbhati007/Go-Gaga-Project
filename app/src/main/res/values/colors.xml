@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DA003D</color>
+    <color name="colorPrimaryDark">#7C013B</color>
+    <color name="colorAccent">#91052C</color>
+    <color name="whiteColour">#ffff</color>
+    <color name="colorLight">#FBFFECF2</color>
+    <color name="black">#000000</color>
+    <color name="blackLight">#83050505</color>
+    <color name="lightBlue">#5DCDFA</color>
+    <color name="pink">#FF2F82</color>
+    <color name="yearText">#571A93</color>
+
+</resources>
